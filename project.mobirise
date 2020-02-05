@@ -1,0 +1,920 @@
+{
+  "settings": {
+    "name": "Kairos",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#bfcecb",
+        "#232323"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.0",
+    "siteFonts": [],
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-kairos-2-128x186.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "54",
+      "opacityOverlay": "80",
+      "text": "Używamy plików cookies, by ułatwić korzystanie z naszego serwisu. <a href='page3.html'>Więcej</a>.",
+      "textButton": "Zgadzam się"
+    },
+    "gdpr": false,
+    "uniqCompNum": 48,
+    "versionPublish": "4.12.0",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "KAIROS",
+          "text": "Usługi archeologiczne<br>GIS i kartografia<br>LiDAR<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Kontakt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Poradnik inwestora</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x356.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lidar-600x292.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x355.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Nadzory archeologiczne",
+          "subtitle1": "Budowy, prace ziemne",
+          "caption1": "Nadzory archeologiczne nad inwestycjami, przygotowanie dokumentacji oraz uzyskanie niezbędnych pozwoleń&nbsp;<br>",
+          "title2": "Badania archeologiczne",
+          "subtitle2": "Wykopaliskowe, sondażowe, powierzchniowe",
+          "caption2": "Badania wykopaliskowe, powierzchniowe, odwierty oraz opracowanie zabytków i dokumentacji wykopaliskowej",
+          "title3": "LiDAR",
+          "subtitle3": "Lotniczy skaning laserowy",
+          "caption3": "Opracowanie i analiza danych pochodzących z lotniczego skanowania laserowego (ALS/LiDAR)<br><br><br>",
+          "title4": "GIS i kartografia",
+          "subtitle4": "Prace nad danymi przestrzennymi",
+          "caption4": "Praca z systemami GIS, opracowania kartograficzne, przygotowanie map, geodezja archeologiczna",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-4",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x830.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-5"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "lidar",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beznazwy-1-2000x671.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "LiDAR",
+          "text": "Czyli skaning laserowy...",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-16"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lidar-734x537.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gis-734x537.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1a"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ryc.-6.-1400x1883.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1b"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "nadzory",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "STREFA INWESTORA",
+          "text": "<p>Czyli, co i jak...</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Na mojej działce jest stanowisko archeologiczne, co dalej?",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-d"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1383-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1383-2000x1500-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/nadzor-734x537.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/nadzor-734x537-694x520.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/teren-734x537.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/teren-734x537-709x532.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1378-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1378-2000x1500-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-e"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "cookie",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cookie Policy\r",
+          "text": "&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Cookie Policy\n</p><p>Serwis nie zbiera w sposób automatyczny żadnych informacji, z wyjątkiem informacji zawartych w plikach cookies.\n</p><p>Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególności pliki tekstowe, które przechowywane są w urządzeniu końcowym Użytkownika Serwisu i przeznaczone są do korzystania ze stron internetowych Serwisu. Cookies zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer.\n</p><p>Podmiotem zamieszczającym na urządzeniu końcowym Użytkownika Serwisu pliki cookies oraz uzyskującym do nich dostęp jest operator Serwisu.\n</p><p>Pliki cookies wykorzystywane są w celu:\n</p><p>a)      dostosowania zawartości stron internetowych Serwisu do preferencji Użytkownika oraz optymalizacji korzystania ze stron internetowych; w szczególności pliki te pozwalają rozpoznać urządzenie Użytkownika Serwisu i odpowiednio wyświetlić stronę internetową, dostosowaną do jego indywidualnych potrzeb;\n</p><p>\n</p><p>b)      tworzenia statystyk, które pomagają zrozumieć, w jaki sposób Użytkownicy Serwisu korzystają ze stron internetowych, co umożliwia ulepszanie ich struktury i zawartości;\n</p><p>\n</p><p>W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne”  (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika.\n</p><p>W ramach Serwisu stosowane są następujące rodzaje plików cookies:\n</p><p>a)      „niezbędne” pliki cookies, umożliwiające korzystanie z usług dostępnych w ramach Serwisu, np. uwierzytelniające pliki cookies wykorzystywane do usług wymagających uwierzytelniania w ramach Serwisu;\n</p><p>\n</p><p>b)      pliki cookies służące do zapewnienia bezpieczeństwa, np. wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania w ramach Serwisu;\n</p><p>\n</p><p>c)       „wydajnościowe” pliki cookies, umożliwiające zbieranie informacji o sposobie korzystania ze stron internetowych Serwisu;\n</p><p>\n</p><p>d)      „funkcjonalne” pliki cookies, umożliwiające „zapamiętanie” wybranych przez Użytkownika ustawień i personalizację interfejsu Użytkownika, np. w zakresie wybranego języka lub regionu, z którego pochodzi Użytkownik, rozmiaru czcionki, wyglądu strony internetowej itp.;\n</p><p>\n</p><p>e)      „reklamowe” pliki cookies, umożliwiające dostarczanie Użytkownikom treści reklamowych bardziej dostosowanych do ich zainteresowań.\n</p><p>\n</p><p>W wielu przypadkach oprogramowanie służące do przeglądania stron internetowych (przeglądarka internetowa) domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać w każdym czasie zmiany ustawień dotyczących plików cookies. Ustawienia te mogą zostać zmienione w szczególności w taki sposób, aby blokować automatyczną obsługę plików cookies w ustawieniach przeglądarki internetowej bądź informować o ich każdorazowym zamieszczeniu w urządzeniu Użytkownika Serwisu. Szczegółowe informacje o możliwości i sposobach obsługi plików cookies dostępne są w ustawieniach oprogramowania (przeglądarki internetowej).\n</p><p>Operator Serwisu informuje, że ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu.\n</p><p>Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu i wykorzystywane mogą być również przez współpracujących z operatorem Serwisu reklamodawców oraz partnerów</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "kontakt",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Kontakt",
+          "text": "<p>Czyli, &nbsp;jak nas znaleźć</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "Telefon",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Michał Jakubczak: (+48) 600 450 070",
+          "title2": "E - mail",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "michal.jakubczak87@gmail.com",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-15"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-12"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "gis",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "GIS I KARTOGRAFIA",
+          "text": "Czyli jak odnaleźć się w przestrzni",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Systemy informacji przestrzennych </b>stanowią aktualnie nieodzowną część każdego projektu naukowego w jakim wykorzystywane są dane przestrzenne. GIS stał się nieodzownym narzędziem nie tylko w geografii, geologii czy biologii, ale także archeologii czy historii. Jednocześnie nie każdy naukowiec, poświęcając się swojej dziedzinie, ma czas i możliwość żeby uczyć się obsługi kolejnych programów oraz pracy z bazami GIS. Wychodząc naprzeciw temu, chcemy zaoferować Państwu nasze usługi, polegające nie tylko na wykonaniu map, ale jeśli zajdzie taka potrzeba również na przygotowaniu baz danych GIS oraz analiz przestrzennych.</p>",
+          "text2": "<p><b>Zajmujemy się również kartografią.</b> Dokładne i estetyczne przygotowanie map jest nie bez znaczenia dla odbioru projektu/tekstu/referatu naukowego przez jego adresatów. Również w przypadku tablic informacyjnych, folderów reklamowych i informacyjnych czy raportów ze stanu projektu odpowiednia mapa znacząco zwiększa czytelność wizualizowanych informacji. Wykonanie map w oprogramowaniu GIS gwarantuje ich wysoką jakość oraz precyzję.&nbsp;</p>",
+          "text3": "<p><b>Geodezja.</b> Ważną częścią warsztatu archeologa (ale także architekta krajobrazu, geologa, geomorfologa itd.) jest dobre zaczepienie wyników w przestrzeni. Wykonanie planów wykopów zachowujących odpowiednie standardy jest aktualnie konieczne do uzyskania pozwoleń na badania, a następnie ich skuteczne rozliczenie. GIS w połączeniu z naszą wiedzą o geodezji praktycznej pozwala nam na wykonywanie tego typu planów w sposób szybki i tani. Przygotowujemy również plany warstwicowe i sytuacyjne.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-w",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ryc.-2-1712x1712.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/ryc.-2-1712x1712-800x713.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/analiza-gstoci-chmury-punktw-2000x1414.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/analiza-gstoci-chmury-punktw-2000x1414-800x566.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/v4-color-2000x1420.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/v4-color-2000x1420-800x568.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/postoowo-plan-1-500-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/postoowo-plan-1-500-2000x1414-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-x"
+        }
+      ]
+    }
+  }
+}
